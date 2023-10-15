@@ -1,3 +1,4 @@
+![logo](https://github.com/Abdullah-marwat/Abdullah-marwat/blob/main/WhatsApp%20Image%202023-10-15%20at%207.14.03%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Abdullah marwat</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Reload the image" align="right" width="400px">
